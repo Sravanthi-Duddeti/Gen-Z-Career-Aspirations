@@ -85,6 +85,10 @@ Explore Gen Z's preferred leadership qualities, ideal employers, work setups, an
 ![Screenshot (132)](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/b308da1f-df64-494b-a9f0-71e52866b6da)
 
 
+Check out the complete  live interactive dashboard on the link below
+https://rb.gy/tf0rdk
+
+
 
 
 
