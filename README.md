@@ -1,4 +1,4 @@
-# Gen-Z-Career-Aspirations
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/1cc21fea-9fa8-420a-9225-44b8af891186)# Gen-Z-Career-Aspirations
 
 ![dataset-cover](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/56ca27b3-8332-4155-beae-4dde575e9b97)
 
@@ -13,11 +13,17 @@ Analysis Questions:
 In order to achieve this objective, I’ll be answering the following questions:
 
 What Are the Top Most Influential Factors?
+
 What is their Career Stability preference?
+
 What is their preference in terms of Mission Alignment and Social Impact?
+
 What is their Preferred Working Environment?
+
 What is their preferred Learning Environment?
+
 What are their preferred Career Aspirations?
+
 Understanding Career Aspirations of Gen-Z
 
 Problem Statement: For Better Understanding
@@ -31,14 +37,49 @@ Data Collection via Questionnaire
 
 Data was gathered  from the Gen-Zs through almost every social media platforms like LinkedIn, Facebook, WhatsApp, Gmail, Instagram etc.
 
-![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/78ac5a44-5a88-49d3-8656-36c1b0f59c75)
 
 ![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/06dae297-0647-4cbf-b532-3be485e6db09)
 
 
 CLEANING & STANDARDIZING IN SQL
 
-![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/a7a8833b-1dbb-4f2e-b281-be3776a9eae0)
+Working were done on MYSQL workbench.
+Data were imported from csv and xlsx files to the server.
+Wrote SQL codes to understand the business answers and also to get insights while solving various  business questions too
+
+
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/b428d565-e4d0-4c6e-a615-df7ed1149e4b)
+
+Understanding business questions using MYSQL 
+
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/3d247d41-67d9-4155-9666-f422bd72f5c6)
+
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/55838e3a-bb91-43f8-98e8-de5f45d14aea)
+
+POWERBI DASHBOARD
+Learning Aspiration
+Gen Z Education & Career Insights:
+Explore Gen Z's educational preferences, top career choices, influential factors shaping their career decisions and insights into their preferred work styles
+
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/8bc8f553-db97-4ecb-9e6a-a9a57d1fd8e5)
+
+MISSION ASPIRATIONS
+Exploring Gen Z Work Trends:
+Analyzing salary expectations, mission alignment preferences, undefined mission preferences and the impact of company missions on employee satisfaction and the impact on laid off employees
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/e188eacd-f97e-4361-822f-2fa6829be0b3)
+
+Manager Aspirations:
+Exploring Gen-Z Managerial Dynamics:
+Explore Gen Z's preferred leadership qualities, ideal employers, work setups, and their outlook on future career opportunities within the next three years and seven years. 
+![image](https://github.com/Sravanthi-Duddeti/Gen-Z-Career-Aspirations/assets/128029018/0ef26ee3-49ce-4a7f-8fd9-bf6a6878b7d5)
+
+
+
+
+
+
+
+
 
 
 
